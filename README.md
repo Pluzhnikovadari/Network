@@ -14,5 +14,4 @@
 
 В репозитории приведены сценарии для настройки сети виртуальных машин, каждая из которых изначально является копией машины из репозитория
 
-### Архитектура сети
-    https://github.com/Pluzhnikovadari/Network/blob/main/image-11-06-21-11-33.jpeg
+[Архитектура сети](https://github.com/Pluzhnikovadari/Network/blob/main/image-11-06-21-11-33.jpeg)
